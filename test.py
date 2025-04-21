@@ -1,2 +1,2 @@
 def Test():
-    pass
+    return "Hello"
