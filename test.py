@@ -1,2 +1,2 @@
 def Test():
-    return "Hello"
+    return "Bye"
